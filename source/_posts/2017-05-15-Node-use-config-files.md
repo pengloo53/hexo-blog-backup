@@ -65,6 +65,3 @@ var pool = mysql.createPool(config.mysql);
 ```
 
 Node开发过程中配置文件的使用方法就说到这里，当然还是推荐直接使用`js`文件，风格更加的统一。
-
-- - -
-![](/image/weixin.jpg)

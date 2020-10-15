@@ -32,6 +32,3 @@ tags: [编程,开源项目]
 文档放在了[语雀 · 专业的云端知识库](https://www.yuque.com/dashboard)上，在文档的编辑以及协作上，它有不错的用户体验，期待你加入。
 
 以上
-
----
-![](/image/weixin.jpg)

@@ -23,6 +23,3 @@ tags: [编程,web,表单]
 
 
 [更多Chat...](https://gitbook.cn/gitchat/author/591fec019596095f704586bd)
-
----
-![](/image/weixin.jpg)

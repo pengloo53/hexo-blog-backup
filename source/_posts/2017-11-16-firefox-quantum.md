@@ -5,7 +5,7 @@ tags: [tool,firefox]
 description: 一直支持Firefox，希望越来越棒，作为一家非营利组织Mozilla的产品，令人赞叹!
 ---
 
-![](/image/firefox.png)
+![](/image/tools/firefox.png)
 
 从Chrome转到Firefox阵营下已经有好些年了，当时Google退出中国，由于书签以及组件等的无法访问的原因，选择放弃chrome转而把Firefox作为主力浏览器。
 
@@ -18,6 +18,3 @@ Firefox1.0被公认比IE更安全，特别说明的是Firefox1.0就支持了第�
 为了进一步提高速度，Mozilla将用户打开的选项卡放在首位，并且采用多进程架构。 Firefox Quantum在某些网站上的打开速度甚至超过Chrome。外观设计方面也做了巨大的改变，也许是近期版本升级外观变化最大的一次了，这个变化因人而异，反正是我的菜。
 
 还没有体验的，赶紧去升级吧，可以聘美Chrome的访问速度，关键是可以不用翻墙同步书签以及插件，哈哈
-
-- - -
-![](/image/weixin.jpg)

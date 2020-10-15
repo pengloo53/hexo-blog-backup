@@ -99,6 +99,3 @@ config/*
 ```
 
 这样，如果部署在`windows`环境下，在`config`目录下新建`production.js`配置文件，启动命令`npm winStart`；如果部署在`Linux`或`类Unix`环境下，同样是创建`production.js`，启动命令`npm start`即可。
-
-- - -
-![](/image/weixin.jpg)

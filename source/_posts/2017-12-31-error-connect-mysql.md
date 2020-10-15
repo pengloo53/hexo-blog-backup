@@ -4,8 +4,6 @@ date: 2017-12-31
 tags: node
 ---
 
-![](/image/500308044_wx.jpg)
-
 ```shell
 Unhandled rejection SequelizeAccessDeniedError: Access denied for user 'lupeng'@'localhost' (using password: YES)
 ```
@@ -45,7 +43,3 @@ module.exports = sequelize;
 ```
 
 于是在同步数据库的时候，总是如标题报错，然而觉得没错啊，**最后检查才发现问题所在：运行`test`脚本里的`NODE_ENV`环境变量只在当前终端下才有效，如果要另开一个终端来同步数据库，那么需要在另开的终端里再设置一下环境变量。**不然加载的数据库参数是不一致的，也就是说连接数据库的用户名密码是不对的。
-
-「完」
-- - -
-![](/image/weixin.jpg)

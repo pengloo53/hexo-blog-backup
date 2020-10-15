@@ -4,7 +4,7 @@ date: 2017-12-23
 tags: 随笔
 ---
 
-![](/image/life/6502557339172733453.png)
+![](/image/about_life/6501-1.png)
 
 周末有空去了趟市里，赶在“砥砺奋进的五年”展览的最后一段时间，参观了国家展览馆。对于我个人来说，其实是不太喜欢参观这样类似的展馆，因为看到的都是片面的成就，过于夸大的成果让人有种目眩的感觉，而背后所存在的问题我们并不知道，无法对实际问题的解决产生任何的帮助。
 
@@ -16,15 +16,12 @@ tags: 随笔
 
 下面简单看下国家展览馆的风采，给人直接的感官还是很震撼的。
 
-![入口](/image/life/6501.png)
+![入口](/image/about_life/6501.png)
 
-![共享单车：ofo和摩拜](/image/life/6502.png)
+![共享单车：ofo和摩拜](/image/about_life/6502.png)
 
-![高铁&核电](/image/life/6503.png)
+![高铁&核电](/image/about_life/6503.png)
 
-![计算机](/image/life/6504.png)
+![计算机](/image/about_life/6504.png)
 
-![东方红&核试验堆](/image/life/6505.png)
-
-- - -
-![](/image/weixin.jpg)
+![东方红&核试验堆](/image/about_life/6505.png)

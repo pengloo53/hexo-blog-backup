@@ -5,7 +5,7 @@ tags: [node,sequelize]
 description: Node Web开发中，换台机器开发就要检查数据库表结构是否一致，直接操作SQL来写代码实在是太Low，太不方便了，有没有替代方案？我怎么这么晚才发现sequelize模块呢
 ---
 
-![](http://img.sher.ren/blog%E6%9C%AA%E5%91%BD%E5%90%8D1509427786.png)
+![](/image/node/sequelize.png)
 
 在Node Web开发过程中，后台数据库我一直使用的都是Mysql，没有别的什么原因，就觉得熟悉，图形界面操作起来比较简单，简化了好多关于数据库方面的操作。
 
@@ -147,6 +147,3 @@ var priority = sequelize.define('priority',{
 ```
 
 好了，本次就到这里，深入学习后再做分享。
-
-- - -
-![](/image/weixin.jpg)

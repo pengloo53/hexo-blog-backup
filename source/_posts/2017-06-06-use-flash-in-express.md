@@ -49,7 +49,4 @@ Node Web开发中，后台三种传参渲染页面的方式：
 
 1. 普通页面渲染使用`res.render()`方法；
 2. 还有别忘了`express`提供的`app.locals`以及`res.locals`对象；
-3. 针对跳转页面的场景可以尝试使用`connect-flash`模块；
-
-- - -
-![](/image/weixin.jpg)
+3. 针对跳转页面的场景可以尝试使用`connect-flash`模块

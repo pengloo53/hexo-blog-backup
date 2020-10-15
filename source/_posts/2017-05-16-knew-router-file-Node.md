@@ -6,7 +6,7 @@ tags: [node,express,路由]
 
 一直使用Express脚手架（express-generator模块）直接生成项目目录，使用命令`express -e ./test`，生成目录后会创建一些项目目录，如下：
 
-![](/image/2017-06-23-10-21-26.jpg)
+![](/image/node/2017-06-23-10-21-26.jpg)
 
 路由相关逻辑都是写在了`routes/`目录里，如果想创建一些新的路径，需要新建路由文件，然后在`app.js`里定义这个路由文件，并添加中间件。`app.js`代码如下：
 
@@ -64,6 +64,3 @@ routes(app);
 ```
 
 这样的话，再新添加一个路由，直接在`routes/index.js`里添加相关代码即可，不必再动`app.js`了，这样整体看起来会整齐一些。
-
-- - -
-![](/image/weixin.jpg)

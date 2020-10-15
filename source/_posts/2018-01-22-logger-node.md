@@ -47,6 +47,3 @@ app.use(expressWinston.errorLogger({
 ```
 
 日志文件分为`success.log`和`error.log`，放在正常路由之前则为成功日志，放在正常访问路由之后，则为错误日志。如不需过多功能，这样放进项目里即可，详细了解可查看官方文档: [winstonjs/winston: A logger for just about everything.](https://github.com/winstonjs/winston)
-
-- - -
-![](/image/weixin.jpg)

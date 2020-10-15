@@ -200,6 +200,3 @@ exports.getUser = function(username,callback){
 ```
 
 官方是推荐使用连接池的方式进行连接的，但是，是直接使用`pool.query()`连接还是`pool.getConnection()`的方法来连接，官方并没有介绍其优劣，我简单做了个测试，貌似这两种方式并没有多大的区别，也就没再研究，有知道的烦请告知，谢了~
-
-- - -
-![](/image/weixin.jpg)

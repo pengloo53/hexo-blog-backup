@@ -4,7 +4,7 @@ date: 2018-03-03
 tags: [hexo,简历]
 ---
 
-![](/image/2018-03-03-11-16-09.jpg)
+![](/image/hexo/2018-03-03-11-16-09.jpg)
 
 很早就在博客里加入了简历页，那会很多信息是写死在了页面中，今天正好有空，就把页面重新调整里一下，将简历信息自定义化，相当于在此主题中正式加入简历功能。
 
@@ -88,6 +88,3 @@ resume:
 
 - [Demo](https://pengloo53.coding.me/about)
 - [Hexo主题](https://github.com/pengloo53/Hexo-theme-light_cn)
-
-- - -
-[![](/image/weixin.jpg)]

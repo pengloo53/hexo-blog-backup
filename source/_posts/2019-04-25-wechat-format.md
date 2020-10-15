@@ -72,6 +72,3 @@ Markdown 只提供了简单的样式标签，例如：标题，引用，链接�
 根据源代码，我重写了一个后台服务版本，计划提供一些在线 API 的功能。仓库地址：[wechat-format-server: 基于 wechat-format 的服务端版本](https://github.com/pengloo53/wechat-format-server)
 
 完
-
----
-![](/image/weixin.jpg)
