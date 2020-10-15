@@ -42,7 +42,7 @@ tags: [我的叨叨念,音乐]
 
 某天地铁通勤在使用 Apple Music 听音乐，激动之余，还在朋友圈和微博上，表白了 Apple Music。
 
-![](/image/daodao/about_music.png)
+![](/image/daodao/about-music.png)
 
 以前不喜欢，是因为默认给我推荐的歌曲都不是我的菜，随着使用时长的增多，Apple Music 的推荐系统终于找到了我的偏好，给我推荐的歌单听起来还不错，且越来越符合我的口味。
 
